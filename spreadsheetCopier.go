@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"github.com/xuri/excelize/v2"
 	"log"
+	"os"
 	"strconv"
-    "os"
-    "strings"
+	"strings"
 )
 
 func main() {
